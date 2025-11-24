@@ -20,8 +20,12 @@ Sempre em busca de aprender algo novo e transformar ideias em soluções reais.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odavisilva&show_icons=true&theme=dracula" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=odavisilva&layout=compact&theme=dracula" alt="Top Langs" height="150"/>
+  <a href="https://github.com/odavisilva">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=odavisilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
+  </a>
+  <a href="https://github.com/odavisilva">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=odavisilva&layout=compact&theme=dracula&langs_count=8" alt="Top Langs" height="150"/>
+  </a>
 </div>
 
 ---
