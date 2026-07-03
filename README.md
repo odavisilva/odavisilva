@@ -1,40 +1,55 @@
+<h1 align="center">👋 Olá, eu sou o Davi!</h1>
 
-# 👋 Olá, eu sou o Davi!
+<p align="center">
+  <b>Engenheiro de Software</b> — especialista em <b>C# / .NET</b> e <b>IA aplicada</b><br>
+  De RPAs fiscais a assistentes de código com IA: RAG, LLMs, agentes, MCP e automação.
+</p>
 
-💻 Desenvolvedor apaixonado por tecnologia, automação, DevOps e desenvolvimento web.  
-Sempre em busca de aprender algo novo e transformar ideias em soluções reais.
-
-<div style="display: flex; gap: 10px;">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/davioliveiradasilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:daviolie2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
+
+## 🚀 Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,python,react&perline=7" alt="Linguagens e frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws&perline=7" alt="Dados e infraestrutura"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/RAG%20%2B%20pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="RAG + pgvector"/>
+  <img src="https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/GitOps%20%2F%20FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" alt="GitOps / FluxCD"/>
+</p>
+
+---
+
+## 👾 Pac-Man vs. meus commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odavisilva/odavisilva/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/odavisilva/odavisilva/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/odavisilva/odavisilva/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/odavisilva">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=odavisilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=odavisilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
   </a>
   <a href="https://github.com/odavisilva">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=odavisilva&layout=compact&theme=dracula&langs_count=8" alt="Top Langs" height="150"/>
-  </a>
-</div>
-
----
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="mailto:daviolie2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/davioliveiradasilva/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=odavisilva&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Langs" height="165"/>
   </a>
 </div>
