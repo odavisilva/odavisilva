@@ -33,7 +33,7 @@
 
 ---
 
-## 👾 Pac-Man vs. meus commits
+## 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odavisilva/odavisilva/output/pacman-contribution-graph-dark.svg">
